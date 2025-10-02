@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>أول تجربة موقع</title>
+</head>
+<body style="font-family: Arial; text-align:center; margin-top:50px;">
+  <h1>مرحبا 👋</h1>
+  <p>ده أول موقع معمول بالـ GitHub Pages 🚀</p>
+</body>
+</html>
